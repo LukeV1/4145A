@@ -7,6 +7,7 @@ The HP4145A comes with a 5 1/4-inch floppy disk. On this disk user data **and** 
 - create new floppies to continue use of the built-in drive. This gets explained in the following section.
 
 All images herein are from revision 5 with datecode '131082'. 
+
 ![floppy disk label](../images/Floppy-label_lq.jpg)
 
 ### floppy disk type
@@ -45,7 +46,8 @@ You should have a fully working new floppy for your HP4145A now.
 **HP4145A error messages**
 
 If the HP instrument errors out at startup with a 'M##' error, take a look at the manual, table 8-1 to find out more:
-![excerpt of Table 8-1](../images/MSU-errors.jpg)
+
+![excerpt of Table 8-1](../images/MSU-errors.gif)
 
 **floppy jargon**
 
